@@ -42,3 +42,44 @@ Well, I guess I need to get a heavy-hitting certification. This is my journey to
 - 🔴 Transmission Control Protocol & User Datagram Protocol
 - 🔴 Standard Access Control Lists
 - 🔴 Extended Access Control Lists
+
+---
+
+# VOLUME 2 - ADVANCED NETWORKING & SECURITY
+
+## Contents
+
+### PART 1 - NETWORK SERVICES
+- 🔴 Cisco Discovery Protocol & Link Layer Discovery Protocol
+- 🔴 Network Time Protocol
+- 🔴 Domain Name System
+- 🔴 Dynamic Host Configuration Protocol
+- 🔴 Secure Shell
+- 🔴 Simple Network Management Protocol
+- 🔴 Syslog
+- 🔴 Trivial File Transfer Protocol & File Transfer Protocol
+- 🔴 Network Address Translation
+- 🔴 Quality of Service
+
+### PART 2 - SECURITY FUNDAMENTALS
+- 🔴 Security Concepts
+- 🔴 Port Security
+- 🔴 DHCP Snooping
+- 🔴 Dynamic ARP Inspection
+
+### PART 3 - NETWORK ARCHITECTURES
+- 🔴 LAN Architectures
+- 🔴 WAN Architectures
+- 🔴 Virtualization & Cloud
+
+### PART 4 - WIRELESS LANs
+- 🔴 Wireless LAN Fundamentals
+- 🔴 Wireless LAN Architectures
+- 🔴 Wireless LAN Security
+- 🔴 Wireless LAN Configuration
+
+### PART 5 - NETWORK AUTOMATION
+- 🔴 Network Automation
+- 🔴 REST APIs
+- 🔴 Data Formats
+- 🔴 Ansible & Terraform
