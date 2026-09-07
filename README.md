@@ -19,8 +19,8 @@ Well, I guess I need to get a heavy-hitting certification. This is my journey to
 
 ### PART 2 - ROUTING FUNDAMENTALS & SUBNETTING
 - 🟢 Routing Fundamentals
-- 🟠 The Life of a Packet
-- 🔴 Subnetting IPv4 Networks
+- 🟢 The Life of a Packet
+- 🟠 Subnetting IPv4 Networks
 
 ### PART 3 - LAYER 2 CONCEPTS
 - 🔴 VLANs
