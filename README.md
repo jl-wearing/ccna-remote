@@ -20,10 +20,10 @@ Well, I guess I need to get a heavy-hitting certification. This is my journey to
 ### PART 2 - ROUTING FUNDAMENTALS & SUBNETTING
 - 🟢 Routing Fundamentals
 - 🟢 The Life of a Packet
-- 🟠 Subnetting IPv4 Networks
+- 🟢 Subnetting IPv4 Networks
 
 ### PART 3 - LAYER 2 CONCEPTS
-- 🔴 VLANs
+- 🟠 VLANs
 - 🔴 Dynamic Trunking Protocol & VLAN Trunking Protocol
 - 🔴 Spanning Tree Protocol
 - 🔴 Rapid Spanning Tree Protocol
