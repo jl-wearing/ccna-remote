@@ -23,10 +23,10 @@ Well, I guess I need to get a heavy-hitting certification. This is my journey to
 - 🟢 Subnetting IPv4 Networks
 
 ### PART 3 - LAYER 2 CONCEPTS
-- 🟠 VLANs
-- 🔴 Dynamic Trunking Protocol & VLAN Trunking Protocol
-- 🔴 Spanning Tree Protocol
-- 🔴 Rapid Spanning Tree Protocol
+- 🟢 VLANs
+- 🟢 Dynamic Trunking Protocol & VLAN Trunking Protocol
+- 🟢 Spanning Tree Protocol
+- 🟠 Rapid Spanning Tree Protocol
 - 🔴 EtherChannel
 
 ### PART 4 - DYNAMIC ROUTING & FIRST HOP REDUNDANCY PROTOCOLS
