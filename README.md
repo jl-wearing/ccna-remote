@@ -26,11 +26,11 @@ Well, I guess I need to get a heavy-hitting certification. This is my journey to
 - 🟢 VLANs
 - 🟢 Dynamic Trunking Protocol & VLAN Trunking Protocol
 - 🟢 Spanning Tree Protocol
-- 🟠 Rapid Spanning Tree Protocol
-- 🔴 EtherChannel
+- 🟢 Rapid Spanning Tree Protocol
+- 🟢 EtherChannel
 
 ### PART 4 - DYNAMIC ROUTING & FIRST HOP REDUNDANCY PROTOCOLS
-- 🔴 Dynamic Routing
+- 🟠 Dynamic Routing
 - 🔴 Open Shortest Path First
 - 🔴 First Hop Redundancy Protocols
 
