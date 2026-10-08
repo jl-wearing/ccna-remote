@@ -30,8 +30,8 @@ Well, I guess I need to get a heavy-hitting certification. This is my journey to
 - 🟢 EtherChannel
 
 ### PART 4 - DYNAMIC ROUTING & FIRST HOP REDUNDANCY PROTOCOLS
-- 🟠 Dynamic Routing
-- 🔴 Open Shortest Path First
+- 🟢 Dynamic Routing
+- 🟠 Open Shortest Path First
 - 🔴 First Hop Redundancy Protocols
 
 ### PART 5 - IPv6
