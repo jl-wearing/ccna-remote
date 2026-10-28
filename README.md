@@ -31,8 +31,8 @@ Well, I guess I need to get a heavy-hitting certification. This is my journey to
 
 ### PART 4 - DYNAMIC ROUTING & FIRST HOP REDUNDANCY PROTOCOLS
 - 🟢 Dynamic Routing
-- 🟠 Open Shortest Path First
-- 🔴 First Hop Redundancy Protocols
+- 🟢 Open Shortest Path First
+- 🟠 First Hop Redundancy Protocols
 
 ### PART 5 - IPv6
 - 🔴 IPv6 Addressing
