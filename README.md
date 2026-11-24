@@ -35,8 +35,8 @@ Well, I guess I need to get a heavy-hitting certification. This is my journey to
 - 🟢 First Hop Redundancy Protocols
 
 ### PART 5 - IPv6
-- 🟠 IPv6 Addressing
-- 🔴 IPv6 Routing
+- 🟢 IPv6 Addressing
+- 🟠 IPv6 Routing
 
 ### PART 6 - Layer 4 & IP Access Control Lists
 - 🔴 Transmission Control Protocol & User Datagram Protocol
