@@ -36,10 +36,10 @@ Well, I guess I need to get a heavy-hitting certification. This is my journey to
 
 ### PART 5 - IPv6
 - 🟢 IPv6 Addressing
-- 🟠 IPv6 Routing
+- 🟢 IPv6 Routing
 
 ### PART 6 - Layer 4 & IP Access Control Lists
-- 🔴 Transmission Control Protocol & User Datagram Protocol
+- 🟠 Transmission Control Protocol & User Datagram Protocol
 - 🔴 Standard Access Control Lists
 - 🔴 Extended Access Control Lists
 
