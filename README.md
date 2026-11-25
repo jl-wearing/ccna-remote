@@ -1,7 +1,6 @@
 # Acing the CCNA Exam Volumes 1 & 2
 
-Jobs are far and few between.
-Well, I guess I need to get a heavy-hitting certification. This is my journey towards getting my CCNA.
+This is my journey towards getting my CCNA.
 
 ---
 
